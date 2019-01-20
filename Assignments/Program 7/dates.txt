@@ -1,0 +1,34 @@
+OneTime,1,11,2015,12:00 AM,AlumaCraft renewal on 29-DEC
+OneTime,1,22,2015,9:15 AM,Perio Appointment
+OneTime,2,16,2015,12:00 PM,Student Meeting
+OneTime,2,17,2015,9:00 AM,Student Meeting
+OneTime,2,23,2016,1:45 PM,Blood Donation (redcrossblood.org)
+OneTime,2,24,2016,2:45 PM,Annual Physical
+OneTime,3,22,2016,8:00 AM,Board meeting
+OneTime,4,10,2016,12:00 AM,Leash's Birthday
+OneTime,4,1,2016,4:00 PM,Advising Session
+OneTime,4,1,2016,12:00 AM,Batteries in cabin security panel
+OneTime,4,15,2016,9:00 AM,Beagle & Wolf Book Club
+OneTime,4,22,2016,12:00 AM,Boat Policy payment today
+OneTime,4,22,2016,7:00 PM,*** SPRING FLING ***
+OneTime,4,25,2016,8:00 AM,Dental appointment
+OneTime,4,26,2016,10:00 AM,Maverick Tour
+OneTime,4,28,2016,12:00 AM,Sarah and Ann's Wedding
+OneTime,4,30,2016,1:00 PM,Dental Appointment
+OneTime,4,5,2016,1:15 PM,Annual vision exam
+OneTime,4,6,2016,9:00 AM,*** CALL DFAS ***
+OneTime,4,7,2016,12:00 AM,Amazon delivery of dog shampoos
+OneTime,4,9,2016,12:00 AM,Bob and Sally's Wedding
+OneTime,5,1,2016,12:00 AM,Buy Furnace Filters next Monday
+OneTime,5,6,2016,12:00 AM,Mandy's Birthday
+OneTime,5,7,2016,12:00 AM,Brooke's birthday
+OneTime,6,10,2016,7:00 PM,Boy Scout phone call
+OneTime,6,28,2016,12:00 AM,Brett & Amanda's Wedding
+Monthly,4,1,2016,12:00 AM,Archive Email
+Monthly,1,1,2015,12:00 AM,Douglas' heartworm pill
+Monthly,4,11,2016,11:30 AM,Book order
+Monthly,5,12,2016,12:00 AM,Expense Report
+Daily,4,1,2016,7:00 AM,Check sump pump
+Daily,1,1,2015,8:00 PM,*** FLOSS ***
+Daily,1,20,2016,9:00 AM,Office Hours
+Daily,4,1,2016,7:00 PM,Coffee at 'Bou

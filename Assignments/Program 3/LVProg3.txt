@@ -1,0 +1,89 @@
+County: County Population | | (Largest City: Population) | | Percent Rural
+
+Aitkin: 15,762                 (Aitkin: 2,079)                  78.5%
+Anoka: 342,612                 (Coon Rapids: 62,112)            1.7%
+Becker: 33,272                 (Detroit Lakes: 8,961)           63.6%
+Beltrami: 45,770               (Bemidji: 14,453)                64.7%
+Benton: 39,518                 (Sauk Rapids: 13,348)            55.5%
+Big Stone: 5,124               (Ortonville: 1,848)              36.1%
+Blue Earth: 65,620             (Mankato: 40,411)                21.9%
+Brown: 25,463                  (New Ulm: 13,258)                22.8%
+Carlton: 35,576                (Cloquet: 12,081)                48.1%
+Carver: 97,162                 (Chanhassen: 24,967)             11.0%
+Cass: 28,570                   (Lake Shore: 1,016)              77.1%
+Chippewa: 12,132               (Montevideo: 5,221)              38.6%
+Chisago: 54,134                (North Branch: 10,160)           34.3%
+Clay: 61,196                   (Moorhead: 39,857)               15.3%
+Clearwater: 8,794              (Bagley: 1,392)                  72.5%
+Cook: 5,231                    (Grand Marais: 1,341)            74.4%
+Cottonwood: 11,633             (Windom: 4,583)                  29.9%
+Crow Wing: 63,371              (Brainerd: 13,425)               43.1%
+Dakota: 411,507                (Eagan: 66,084)                  3.8%
+Dodge: 20,352                  (Kasson: 6,074)                  38.0%
+Douglas: 36,789                (Alexandria: 11,680)             55.1%
+Faribault: 14,124              (Blue Earth: 3,269)              31.2%
+Fillmore: 20,783               (Chatfield: 2,787)               36.4%
+Freeborn: 30,831               (Albert Lea: 17,815)             27.8%
+Goodhue: 46,480                (Red Wing: 16,470)               31.8%
+Grant: 5,923                   (Elbow Lake: 1,156)              43.5%
+Hennepin: 1,210,720            (Minneapolis: 407,207)           -0.3%
+Houston: 18,766                (La Crescent: 4,793)             40.8%
+Hubbard: 20,596                (Park Rapids: 3,927)             76.4%
+Isanti: 38,397                 (Cambridge: 8,323)               59.5%
+Itasca: 45,639                 (Grand Rapids: 11,097)           49.7%
+Jackson: 10,266                (Jackson: 3,294)                 41.0%
+Kanabec: 15,966                (Mora: 3,488)                    74.1%
+Kandiyohi: 42,258              (Willmar: 19,570)                38.6%
+Kittson: 4,440                 (Hallock: 954)                   40.5%
+Koochiching: 13,018            (International Falls: 6,171)     39.7%
+Lac qui Parle: 6,922           (Madison: 1,470)                 49.2%
+Lake of the Woods: 3,921       (Baudette: 1,059)                68.3%
+Lake: 10,695                   (Two Harbors: 3,611)             47.5%
+Le Sueur: 27,791               (Le Sueur: 4,023)                51.1%
+Lincoln: 5,788                 (Tyler: 1,116)                   46.5%
+Lyon: 25,746                   (Marshall: 13,641)               20.7%
+Mahnomen: 5,503                (Mahnomen: 1,234)                68.6%
+Marshall: 9,420                (Warren: 1,562)                  50.3%
+Martin: 20,295                 (Fairmont: 10,328)               26.4%
+McLeod: 35,942                 (Hutchinson: 13,872)             27.9%
+Meeker: 23,122                 (Litchfield: 6,668)              49.3%
+Mille Lacs: 25,862             (Princeton: 4,696)               60.1%
+Morrison: 32,859               (Little Falls: 8,201)            56.6%
+Mower: 39,356                  (Austin: 24,716)                 22.1%
+Murray: 8,475                  (Slayton: 2,078)                 47.5%
+Nicollet: 33,350               (North Mankato: 13,432)          18.3%
+Nobles: 21,574                 (Worthington: 12,932)            22.7%
+Norman: 6,643                  (Ada: 1,650)                     41.2%
+Olmsted: 150,201               (Rochester: 111,402)             15.6%
+Otter Tail: 57,612             (Fergus Falls: 13,304)           55.3%
+Pennington: 14,119             (Thief River Falls: 8,656)       35.8%
+Pine: 29,196                   (Pine City: 3,076)               61.2%
+Pipestone: 9,336               (Pipestone: 4,156)               28.8%
+Polk: 31,545                   (East Grand Forks: 8,651)        31.8%
+Pope: 10,982                   (Glenwood: 2,528)                52.7%
+Ramsey: 529,506                (St. Paul: 297,640)              2.2%
+Red Lake: 4,048                (Red Lake Falls: 1,404)          44.2%
+Redwood: 15,573                (Redwood Falls: 5,059)           34.9%
+Renville: 15,067               (Olivia: 2,374)                  37.4%
+Rice: 65,180                   (Faribault: 23,594)              22.5%
+Rock: 9,555                    (Luverne: 4,669)                 34.1%
+Roseau: 15,663                 (Roseau: 2,652)                  63.4%
+Scott: 138,727                 (Shakopee: 39,677)               14.2%
+Sherburne: 91,223              (Elk River: 23,746)              51.0%
+Sibley: 14,919                 (Gaylord: 2,253)                 43.6%
+St. Louis: 200,840             (Duluth: 86,238)                 24.9%
+Stearns: 153,326               (St. Cloud: 66,389)              15.8%
+Steele: 36,532                 (Owatonna: 25,625)               19.2%
+Stevens: 9,836                 (Morris: 5,357)                  30.4%
+Swift: 9,453                   (Benson: 3,107)                  37.3%
+Todd: 24,266                   (Long Prairie: 3,360)            60.8%
+Traverse: 3,392                (Wheaton: 1,355)                 39.1%
+Wabasha: 21,376                (Lake City: 4,957)               35.9%
+Wadena: 13,768                 (Wadena: 4,103)                  50.4%
+Waseca: 19,029                 (Waseca: 9,272)                  32.0%
+Washington: 249,109            (Woodbury: 66,807)               5.4%
+Watonwan: 11,095               (St. James: 4,524)               27.2%
+Wilkin: 6,503                  (Breckenridge: 3,340)            31.7%
+Winona: 51,109                 (Winona: 27,384)                 22.7%
+Wright: 129,946                (St. Michael: 17,087)            24.3%
+Yellow Medicine: 10,127        (Granite Falls: 2,796)           33.9%

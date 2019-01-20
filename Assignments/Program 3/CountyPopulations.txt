@@ -1,0 +1,88 @@
+County,2014 Population
+Aitkin,15762
+Anoka,342612
+Becker,33272
+Beltrami,45770
+Benton,39518
+Big Stone,5124
+Blue Earth,65620
+Brown,25463
+Carlton,35576
+Carver,97162
+Cass,28570
+Chippewa,12132
+Chisago,54134
+Clay,61196
+Clearwater,8794
+Cook,5231
+Cottonwood,11633
+Crow Wing,63371
+Dakota,411507
+Dodge,20352
+Douglas,36789
+Faribault,14124
+Fillmore,20783
+Freeborn,30831
+Goodhue,46480
+Grant,5923
+Hennepin,1210720
+Houston,18766
+Hubbard,20596
+Isanti,38397
+Itasca,45639
+Jackson,10266
+Kanabec,15966
+Kandiyohi,42258
+Kittson,4440
+Koochiching,13018
+Lac qui Parle,6922
+Lake,10695
+Lake of the Woods,3921
+Le Sueur,27791
+Lincoln,5788
+Lyon,25746
+McLeod,35942
+Mahnomen,5503
+Marshall,9420
+Martin,20295
+Meeker,23122
+Mille Lacs,25862
+Morrison,32859
+Mower,39356
+Murray,8475
+Nicollet,33350
+Nobles,21574
+Norman,6643
+Olmsted,150201
+Otter Tail,57612
+Pennington,14119
+Pine,29196
+Pipestone,9336
+Polk,31545
+Pope,10982
+Ramsey,529506
+Red Lake,4048
+Redwood,15573
+Renville,15067
+Rice,65180
+Rock,9555
+Roseau,15663
+St. Louis,200840
+Scott,138727
+Sherburne,91223
+Sibley,14919
+Stearns,153326
+Steele,36532
+Stevens,9836
+Swift,9453
+Todd,24266
+Traverse,3392
+Wabasha,21376
+Wadena,13768
+Waseca,19029
+Washington,249109
+Watonwan,11095
+Wilkin,6503
+Winona,51109
+Wright,129946
+Yellow Medicine,10127

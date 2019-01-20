@@ -1,0 +1,853 @@
+City Name,2010 Census,2014 Estimate
+Ada,1707,1650
+Adams,787,785
+Adrian,1209,1217
+Afton,2886,2953
+Aitkin,2165,2079
+Akeley,432,431
+Albany,2561,2618
+Albert Lea,18016,17815
+Alberta,103,102
+Albertville,7044,7281
+Alden,661,650
+Aldrich,48,47
+Alexandria,11070,11680
+Alpha,116,128
+Altura,493,491
+Alvarado,363,357
+Amboy,534,525
+Andover,30598,31996
+Annandale,3228,3295
+Anoka,17142,17276
+Apple Valley,49084,50487
+Appleton,1412,1356
+Arco,75,73
+Arden Hills,9552,9876
+Argyle,639,637
+Arlington,2233,2179
+Ashby,446,436
+Askov,364,354
+Atwater,1133,1122
+Audubon,519,513
+Aurora,1682,1674
+Austin,24718,24716
+Avoca,147,142
+Avon,1396,1436
+Babbitt,1475,1530
+Backus,250,245
+Badger,375,373
+Bagley,1392,1392
+Balaton,643,626
+Barnesville,2563,2569
+Barnum,613,600
+Barrett,415,406
+Barry,16,15
+Battle Lake,875,879
+Baudette,1106,1059
+Baxter,7610,7826
+Bayport,3471,3692
+Beardsley,233,225
+Beaver Bay,181,176
+Beaver Creek,297,295
+Becker,4538,4687
+Bejou,89,91
+Belgrade,740,752
+Belle Plaine,6661,6902
+Bellechester,175,175
+Bellingham,168,160
+Beltrami,107,106
+Belview,384,364
+Bemidji,13431,14453
+Bena,116,117
+Benson,3240,3107
+Bertha,497,475
+Bethel,466,470
+Big Falls,236,225
+Big Lake,10060,10360
+Bigelow,235,237
+Bigfork,446,447
+Bingham Lake,126,128
+Birchwood Village,870,878
+Bird Island,1042,1004
+Biscay,113,111
+Biwabik,969,995
+Blackduck,785,788
+Blaine,57186,61190
+Blomkest,157,160
+Blooming Prairie,1996,1976
+Bloomington,82893,86314
+Blue Earth,3353,3269
+Bluffton,207,210
+Bock,106,106
+Borup,110,107
+Bovey,804,817
+Bowlus,290,284
+Boy River,47,46
+Boyd,175,166
+Braham,1793,1790
+Brainerd,13590,13425
+Brandon,489,478
+Breckenridge,3386,3340
+Breezy Point,2346,2347
+Brewster,473,470
+Bricelyn,365,350
+Brook Park,139,136
+Brooklyn Center,30104,30729
+Brooklyn Park,75781,78728
+Brooks,141,140
+Brookston,141,139
+Brooten,743,739
+Browerville,790,761
+Browns Valley,589,556
+Brownsdale,676,690
+Brownsville,466,459
+Brownton,762,739
+Bruno,102,100
+Buckman,270,272
+Buffalo,15453,15912
+Buffalo Lake,733,697
+Buhl,1000,997
+Burnsville,60306,61630
+Burtrum,144,140
+Butterfield,586,602
+Byron,4914,5191
+Caledonia,2868,2793
+Callaway,234,235
+Calumet,367,363
+Cambridge,8111,8323
+Campbell,158,156
+Canby,1795,1742
+Cannon Falls,4083,4068
+Canton,346,346
+Carlos,502,492
+Carlton,862,891
+Carver,3724,4259
+Cass Lake,770,748
+Cedar Mills,45,44
+Center City,628,630
+Centerville,3792,3906
+Ceylon,369,360
+Champlin,23089,23828
+Chandler,270,260
+Chanhassen,22952,24967
+Chaska,23770,24838
+Chatfield,2779,2787
+Chickamaw Beach,114,112
+Chisago City,4967,4937
+Chisholm,4976,5017
+Chokio,400,391
+Circle Pines,4918,4949
+Clara City,1360,1320
+Claremont,548,540
+Clarissa,681,658
+Clarkfield,863,831
+Clarks Grove,706,688
+Clear Lake,545,625
+Clearbrook,518,518
+Clearwater,1735,1780
+Clements,153,150
+Cleveland,719,707
+Climax,267,266
+Clinton,449,428
+Clitherall,112,114
+Clontarf,164,159
+Cloquet,12124,12081
+Coates,161,163
+Cobden,36,35
+Cohasset,2698,2754
+Cokato,2694,2725
+Cold Spring,4025,4044
+Coleraine,1970,2003
+Cologne,1519,1546
+Columbia Heights,19496,19675
+Columbus,3914,3980
+Comfrey,382,374
+Comstock,93,93
+Conger,146,144
+Cook,574,570
+Coon Rapids,61476,62112
+Corcoran,5379,5526
+Correll,34,33
+Cosmos,473,460
+Cottage Grove,34589,35630
+Cottonwood,1212,1211
+Courtland,611,633
+Cromwell,234,230
+Crookston,7891,7920
+Crosby,2386,2359
+Crosslake,2141,2196
+Crystal,22151,22605
+Currie,233,228
+Cuyuna,332,341
+Cyrus,288,283
+Dakota,323,318
+Dalton,253,253
+Danube,505,476
+Danvers,97,94
+Darfur,108,107
+Darwin,350,350
+Dassel,1469,1442
+Dawson,1540,1454
+Dayton,4671,4976
+De Graff,115,128
+Deephaven,3642,3807
+Deer Creek,322,322
+Deer River,930,940
+Deerwood,532,522
+Delano,5464,5767
+Delavan,179,175
+Delhi,70,68
+Dellwood,1063,1083
+Denham,35,34
+Dennison,212,213
+Dent,192,192
+Detroit Lakes,8569,8961
+Dexter,341,343
+Dilworth,4024,4188
+Dodge Center,2670,2691
+Donaldson,42,41
+Donnelly,241,242
+Doran,55,54
+Dover,735,748
+Dovray,57,55
+Duluth,86265,86238
+Dumont,100,95
+Dundas,1367,1446
+Dundee,68,70
+Dunnell,167,163
+Eagan,64206,66084
+Eagle Bend,535,513
+Eagle Lake,2422,2688
+East Bethel,11626,11642
+East Grand Forks,8601,8651
+East Gull Lake,1004,1003
+Easton,199,195
+Echo,278,270
+Eden Prairie,60797,63228
+Eden Valley,1042,1033
+Edgerton,1189,1143
+Edina,47941,49596
+Effie,123,124
+Eitzen,243,242
+Elba,152,156
+Elbow Lake,1176,1156
+Elgin,1089,1064
+Elizabeth,173,173
+Elk River,22974,23746
+Elko New Market,4110,4665
+Elkton,141,142
+Ellendale,691,688
+Ellsworth,463,459
+Elmdale,116,114
+Elmore,663,644
+Elrosa,211,212
+Ely,3460,3455
+Elysian,652,669
+Emily,813,825
+Emmons,391,386
+Erhard,148,148
+Erskine,503,490
+Evan,86,83
+Evansville,612,602
+Eveleth,3718,3698
+Excelsior,2188,2256
+Eyota,1977,2037
+Fairfax,1235,1183
+Fairmont,10666,10328
+Falcon Heights,5321,5513
+Faribault,23352,23594
+Farmington,21086,22571
+Farwell,51,52
+Federal Dam,110,107
+Felton,177,180
+Fergus Falls,13138,13304
+Fertile,842,844
+Fifty Lakes,387,397
+Finlayson,315,312
+Fisher,435,433
+Flensburg,225,228
+Floodwood,528,526
+Florence,39,39
+Foley,2603,2658
+Forada,185,190
+Forest Lake,18375,19399
+Foreston,533,521
+Fort Ripley,69,69
+Fosston,1527,1508
+Fountain,410,410
+Foxhome,116,115
+Franklin,510,483
+Frazee,1350,1374
+Freeborn,297,293
+Freeport,632,656
+Fridley,27208,27670
+Frost,198,194
+Fulda,1318,1257
+Funkley,5,5
+Garfield,354,345
+Garrison,210,203
+Garvin,135,135
+Gary,214,208
+Gaylord,2305,2253
+Gem Lake,393,447
+Geneva,555,548
+Genola,75,74
+Georgetown,129,129
+Ghent,370,367
+Gibbon,772,754
+Gilbert,1799,1799
+Gilman,224,224
+Glencoe,5631,5525
+Glenville,643,635
+Glenwood,2564,2528
+Glyndon,1394,1386
+Golden Valley,20371,20866
+Gonvick,282,286
+Good Thunder,583,580
+Goodhue,1176,1178
+Goodridge,132,131
+Goodview,4036,4020
+Graceville,577,565
+Granada,303,295
+Grand Marais,1351,1341
+Grand Meadow,1139,1146
+Grand Rapids,10869,11097
+Granite Falls,2897,2796
+Grant,4096,4142
+Grasston,158,156
+Green Isle,559,541
+Greenbush,719,718
+Greenfield,2777,2885
+Greenwald,222,223
+Greenwood,688,712
+Grey Eagle,348,333
+Grove City,635,619
+Grygla,221,218
+Gully,66,66
+Hackensack,313,310
+Hadley,61,59
+Hallock,981,954
+Halma,61,60
+Halstad,597,574
+Ham Lake,15296,15888
+Hamburg,513,520
+Hammond,132,135
+Hampton,689,691
+Hancock,765,758
+Hanley Falls,304,295
+Hanover,2938,3182
+Hanska,402,381
+Harding,125,126
+Hardwick,198,195
+Harmony,1020,997
+Harris,1132,1127
+Hartland,315,311
+Hastings,22172,22566
+Hatfield,54,57
+Hawley,2067,2098
+Hayfield,1340,1328
+Hayward,250,247
+Hazel Run,63,61
+Hector,1151,1089
+Heidelberg,122,124
+Henderson,886,874
+Hendricks,713,694
+Hendrum,307,298
+Henning,802,798
+Henriette,71,70
+Herman,437,433
+Hermantown,9414,9704
+Heron Lake,698,689
+Hewitt,266,250
+Hibbing,16361,16302
+Hill City,633,608
+Hillman,38,37
+Hills,686,674
+Hilltop,744,738
+Hinckley,1800,1782
+Hitterdal,201,202
+Hoffman,681,678
+Hokah,580,561
+Holdingford,708,704
+Holland,187,181
+Hollandale,303,299
+Holloway,92,89
+Holt,88,88
+Hopkins,17591,18056
+Houston,979,969
+Howard Lake,1962,2041
+Hoyt Lakes,2017,2016
+Hugo,13332,14239
+Humboldt,45,44
+Hutchinson,14178,13872
+Ihlen,63,61
+Independence,3504,3707
+International Falls,6424,6171
+Inver Grove Heights,33880,34709
+Iona,137,132
+Iron Junction,86,86
+Ironton,572,564
+Isanti,5251,5424
+Isle,751,786
+Ivanhoe,559,554
+Jackson,3299,3294
+Janesville,2256,2249
+Jasper,633,617
+Jeffers,369,360
+Jenkins,430,437
+Johnson,29,28
+Jordan,5470,5970
+Kandiyohi,491,488
+Karlstad,760,736
+Kasota,675,666
+Kasson,5931,6074
+Keewatin,1068,1059
+Kelliher,262,262
+Kellogg,456,439
+Kennedy,193,188
+Kenneth,68,67
+Kensington,292,290
+Kent,81,80
+Kenyon,1815,1817
+Kerkhoven,759,726
+Kerrick,65,64
+Kettle River,180,179
+Kiester,501,484
+Kilkenny,134,134
+Kimball,762,764
+Kinbrae,12,12
+Kingston,161,159
+Kinney,169,170
+La Crescent,4830,4793
+La Prairie,665,664
+La Salle,87,86
+Lafayette,504,490
+Lake Benton,683,662
+Lake Bronson,229,224
+Lake City,5063,4957
+Lake Crystal,2549,2528
+Lake Elmo,8069,8306
+Lake Henry,103,103
+Lake Lillian,238,237
+Lake Park,783,783
+Lake Shore,1004,1016
+Lake St. Croix Beach,1051,1072
+Lake Wilson,251,242
+Lakefield,1694,1691
+Lakeland,1796,1832
+Lakeland Shores,311,313
+Lakeville,55954,59866
+Lamberton,824,796
+Lancaster,340,332
+Landfall,686,738
+Lanesboro,754,735
+Laporte,111,113
+Lastrup,104,102
+Lauderdale,2379,2484
+Le Center,2499,2474
+Le Roy,929,927
+Le Sueur,4058,4023
+Lengby,86,86
+Leonard,41,42
+Leonidas,52,52
+Lester Prairie,1730,1686
+Lewiston,1620,1581
+Lewisville,250,248
+Lexington,2049,2022
+Lilydale,623,876
+Lindstrom,4442,4412
+Lino Lakes,20216,20948
+Lismore,227,229
+Litchfield,6726,6668
+Little Canada,9773,10228
+Little Falls,8343,8201
+Littlefork,647,623
+Long Beach,335,412
+Long Lake,1768,1798
+Long Prairie,3458,3360
+Longville,156,156
+Lonsdale,3674,3804
+Loretto,650,667
+Louisburg,47,45
+Lowry,299,296
+Lucan,191,185
+Luverne,4745,4669
+Lyle,551,547
+Lynd,448,437
+Mabel,780,761
+Madelia,2308,2279
+Madison,1551,1470
+Madison Lake,1017,1062
+Magnolia,222,219
+Mahnomen,1214,1234
+Mahtomedi,7676,8064
+Manchester,57,56
+Manhattan Beach,57,58
+Mankato,39309,40411
+Mantorville,1197,1206
+Maple Grove,61567,66945
+Maple Lake,2059,2092
+Maple Plain,1768,1780
+Mapleton,1756,1741
+Mapleview,176,177
+Maplewood,38018,40199
+Marble,701,699
+Marietta,162,154
+Marine on St. Croix,689,695
+Marshall,13680,13641
+Mayer,1749,1856
+Maynard,366,353
+Mazeppa,842,829
+McGrath,80,77
+McGregor,391,373
+McIntosh,625,622
+McKinley,128,128
+Meadowlands,134,134
+Medford,1239,1236
+Medicine Lake,371,370
+Medina,4892,5668
+Meire Grove,179,179
+Melrose,3598,3593
+Menahga,1306,1335
+Mendota,198,206
+Mendota Heights,11071,11222
+Mentor,153,152
+Middle River,303,298
+Miesville,125,131
+Milaca,2946,2900
+Milan,369,360
+Millerville,106,105
+Millville,182,179
+Milroy,252,244
+Miltona,424,430
+Minneapolis,382578,407207
+Minneiska,111,109
+Minneota,1392,1365
+Minnesota City,204,201
+Minnesota Lake,687,669
+Minnetonka,49734,51486
+Minnetonka Beach,539,558
+Minnetrista,6384,6885
+Mizpah,56,55
+Montevideo,5383,5221
+Montgomery,2956,2935
+Monticello,12759,13136
+Montrose,2847,3046
+Moorhead,38065,39857
+Moose Lake,2751,2804
+Mora,3571,3488
+Morgan,896,872
+Morris,5286,5357
+Morristown,987,990
+Morton,411,387
+Motley,671,651
+Mound,9052,9302
+Mounds View,12155,12657
+Mountain Iron,2869,2890
+Mountain Lake,2104,2134
+Murdock,278,269
+Myrtle,48,47
+Nashua,68,67
+Nashwauk,983,977
+Nassau,72,69
+Nelson,187,186
+Nerstrand,295,299
+Nevis,390,398
+New Auburn,456,440
+New Brighton,21456,22266
+New Germany,372,383
+New Hope,20339,20792
+New London,1251,1305
+New Munich,320,323
+New Prague,7321,7546
+New Richland,1203,1192
+New Trier,112,113
+New Ulm,13522,13258
+New York Mills,1199,1225
+Newfolden,368,372
+Newport,3435,3469
+Nicollet,1093,1129
+Nielsville,90,90
+Nimrod,69,68
+Nisswa,1971,2014
+Norcross,70,70
+North Branch,10125,10160
+North Mankato,13394,13432
+North Oaks,4469,4807
+North St. Paul,11460,12224
+Northfield,20007,20356
+Northome,200,194
+Northrop,227,221
+Norwood Young America,3549,3665
+Nowthen,4443,4555
+Oak Grove,8031,8324
+Oak Park Heights,4339,4795
+Oakdale,27378,28033
+Odessa,135,131
+Odin,106,105
+Ogema,184,185
+Ogilvie,369,356
+Okabena,188,188
+Oklee,435,424
+Olivia,2484,2374
+Onamia,878,869
+Ormsby,131,129
+Orono,7437,7898
+Oronoco,1300,1411
+Orr,267,303
+Ortonville,1916,1848
+Osakis,1740,1717
+Oslo,330,322
+Osseo,2430,2612
+Ostrander,254,254
+Otsego,13571,15047
+Ottertail,572,598
+Owatonna,25599,25625
+Palisade,167,161
+Park Rapids,3709,3927
+Parkers Prairie,1011,1006
+Paynesville,2432,2418
+Pease,242,241
+Pelican Rapids,2464,2457
+Pemberton,247,248
+Pennock,508,513
+Pequot Lakes,2162,2240
+Perham,2985,3185
+Perley,92,89
+Peterson,199,198
+Pierz,1393,1366
+Pillager,469,454
+Pine City,3123,3076
+Pine Island,3263,3324
+Pine River,944,927
+Pine Springs,408,395
+Pipestone,4317,4156
+Plainview,3340,3270
+Plato,320,316
+Plummer,292,292
+Plymouth,70576,75057
+Porter,183,183
+Preston,1325,1294
+Princeton,4698,4696
+Prinsburg,497,494
+Prior Lake,22796,25039
+Proctor,3057,3081
+Quamba,123,129
+Racine,442,498
+Ramsey,23668,25598
+Randall,650,629
+Randolph,436,442
+Ranier,145,588
+Raymond,764,751
+Red Lake Falls,1427,1404
+Red Wing,16459,16470
+Redwood Falls,5254,5059
+Regal,34,34
+Remer,370,363
+Renville,1287,1225
+Revere,95,92
+Rice,1275,1344
+Richfield,35228,36179
+Richmond,1422,1422
+Richville,96,96
+Riverton,117,117
+Robbinsdale,13953,14320
+Rochester,106769,111402
+Rock Creek,1628,1602
+Rockford,4316,4366
+Rockville,2448,2486
+Rogers,8597,12393
+Rollingstone,664,660
+Roosevelt,151,153
+Roscoe,102,102
+Rose Creek,394,401
+Roseau,2633,2652
+Rosemount,21874,22998
+Roseville,33660,35319
+Rothsay,493,488
+Round Lake,376,372
+Royalton,1242,1218
+Rush City,3079,3063
+Rushford,1731,1712
+Rushford Village,807,809
+Rushmore,342,337
+Russell,338,333
+Ruthton,241,233
+Rutledge,229,221
+Sabin,522,552
+Sacred Heart,548,520
+Sanborn,339,321
+Sandstone,2849,2741
+Sargeant,61,61
+Sartell,15876,16523
+Sauk Centre,4317,4324
+Sauk Rapids,12773,13348
+Savage,26911,29208
+Scandia,3936,4025
+Scanlon,991,981
+Seaforth,86,83
+Sebeka,711,690
+Sedan,45,44
+Shafer,1045,1043
+Shakopee,37076,39677
+Shelly,191,185
+Sherburn,1137,1101
+Shevlin,176,178
+Shoreview,25043,26194
+Shorewood,7307,7557
+Silver Bay,1887,1829
+Silver Lake,837,813
+Skyline,289,294
+Slayton,2153,2078
+Sleepy Eye,3599,3460
+Sobieski,195,191
+Solway,96,98
+South Haven,187,191
+South St. Paul,20160,20487
+Spicer,1167,1187
+Spring Grove,1330,1296
+Spring Hill,85,85
+Spring Lake Park,6412,6464
+Spring Park,1669,1701
+Spring Valley,2479,2416
+Springfield,2152,2078
+Squaw Lake,107,108
+St. Anthony,8226,8960
+St. Augusta,3317,3545
+St. Bonifacius,2283,2317
+St. Charles,3735,3697
+St. Clair,868,853
+St. Cloud,65842,66389
+St. Francis,7218,7359
+St. Hilaire,279,276
+St. James,4605,4524
+St. Joseph,6534,6820
+St. Leo,100,97
+St. Louis Park,45250,47502
+St. Martin,308,309
+St. Marys Point,368,379
+St. Michael,16399,17087
+St. Paul,285068,297640
+St. Paul Park,5279,5366
+St. Peter,11196,11570
+St. Rosa,68,68
+St. Stephen,851,853
+St. Vincent,64,62
+Stacy,1456,1472
+Staples,2981,2891
+Starbuck,1302,1268
+Steen,180,177
+Stephen,658,657
+Stewart,571,552
+Stewartville,5916,6046
+Stillwater,18225,18800
+Stockton,697,724
+Storden,219,218
+Strandquist,69,69
+Strathcona,44,44
+Sturgeon Lake,439,425
+Sunburg,100,99
+Sunfish Lake,521,536
+Swanville,350,343
+Taconite,360,647
+Tamarack,94,90
+Taopi,58,58
+Taunton,139,137
+Taylors Falls,976,967
+Tenstrike,201,206
+Thief River Falls,8573,8656
+Thomson,159,158
+Tintah,63,60
+Tonka Bay,1475,1531
+Tower,500,500
+Tracy,2163,2118
+Trail,46,46
+Trimont,747,723
+Trommald,98,101
+Trosky,86,83
+Truman,1115,1080
+Turtle River,77,78
+Twin Lakes,151,149
+Twin Valley,821,795
+Two Harbors,3745,3611
+Tyler,1143,1116
+Ulen,547,553
+Underwood,341,338
+Upsala,427,427
+Urbank,54,54
+Utica,291,287
+Vadnais Heights,12302,13143
+Vergas,331,340
+Vermillion,419,425
+Verndale,602,582
+Vernon Center,332,330
+Vesta,319,309
+Victoria,7345,8374
+Viking,104,104
+Villard,254,250
+Vining,78,78
+Virginia,8712,8649
+Wabasha,2521,2482
+Wabasso,696,675
+Waconia,10697,11774
+Wadena,4088,4103
+Wahkon,206,209
+Waite Park,6715,7469
+Waldorf,229,227
+Walker,941,926
+Walnut Grove,871,834
+Walters,73,72
+Waltham,151,152
+Wanamingo,1086,1084
+Wanda,84,81
+Warba,181,182
+Warren,1563,1562
+Warroad,1781,1791
+Waseca,9410,9272
+Watertown,4205,4260
+Waterville,1868,1864
+Watkins,962,945
+Watson,205,200
+Waubun,400,401
+Waverly,1357,1387
+Wayzata,3688,4449
+Welcome,686,666
+Wells,2343,2272
+Wendell,167,166
+West Concord,782,779
+West St. Paul,19540,19806
+West Union,111,123
+Westbrook,739,730
+Westport,57,56
+Whalan,63,67
+Wheaton,1424,1355
+White Bear Lake,23797,24986
+Wilder,60,62
+Willernie,507,492
+Williams,191,185
+Willmar,19610,19570
+Willow River,415,399
+Wilmont,339,344
+Wilton,204,269
+Windom,4646,4583
+Winger,220,219
+Winnebago,1437,1394
+Winona,27592,27384
+Winsted,2355,2298
+Winthrop,1399,1368
+Winton,172,173
+Wolf Lake,57,57
+Wolverton,142,140
+Wood Lake,439,417
+Woodbury,61961,66807
+Woodland,437,452
+Woodstock,124,120
+Worthington,12764,12932
+Wrenshall,399,399
+Wright,127,126
+Wykoff,444,433
+Wyoming,7791,7781
+Zemple,93,94
+Zimmerman,5228,5297
+Zumbro Falls,207,244
+Zumbrota,3252,3349

@@ -1,0 +1,853 @@
+CITY,COUNTY
+Aitkin,Aitkin County
+Hill City,Aitkin County
+McGrath,Aitkin County
+McGregor,Aitkin County
+Palisade,Aitkin County
+Tamarack,Aitkin County
+Andover,Anoka County
+Anoka,Anoka County
+Bethel,Anoka County
+Blaine,Anoka County
+Centerville,Anoka County
+Circle Pines,Anoka County
+Columbia Heights,Anoka County
+Columbus,Anoka County
+Coon Rapids,Anoka County
+East Bethel,Anoka County
+Fridley,Anoka County
+Ham Lake,Anoka County
+Hilltop,Anoka County
+Lexington,Anoka County
+Lino Lakes,Anoka County
+Nowthen,Anoka County
+Oak Grove,Anoka County
+Ramsey,Anoka County
+Saint Francis,Anoka County
+Spring Lake Park,Anoka County
+Audubon,Becker County
+Callaway,Becker County
+Detroit Lakes,Becker County
+Frazee,Becker County
+Lake Park,Becker County
+Ogema,Becker County
+Wolf Lake,Becker County
+Bemidji,Beltrami County
+Blackduck,Beltrami County
+Funkley,Beltrami County
+Kelliher,Beltrami County
+Solway,Beltrami County
+Tenstrike,Beltrami County
+Turtle River,Beltrami County
+Wilton,Beltrami County
+Foley,Benton County
+Gilman,Benton County
+Rice,Benton County
+Sauk Rapids,Benton County
+Barry,Big Stone County
+Beardsley,Big Stone County
+Clinton,Big Stone County
+Correll,Big Stone County
+Graceville,Big Stone County
+Johnson,Big Stone County
+Odessa,Big Stone County
+Ortonville,Big Stone County
+Amboy,Blue Earth County
+Eagle Lake,Blue Earth County
+Good Thunder,Blue Earth County
+Lake Crystal,Blue Earth County
+Madison Lake,Blue Earth County
+Mankato,Blue Earth County
+Mapleton,Blue Earth County
+Pemberton,Blue Earth County
+Saint Clair,Blue Earth County
+Skyline,Blue Earth County
+Vernon Center,Blue Earth County
+Cobden,Brown County
+Comfrey,Brown County
+Evan,Brown County
+Hanska,Brown County
+New Ulm,Brown County
+Sleepy Eye,Brown County
+Springfield,Brown County
+Barnum,Carlton County
+Carlton,Carlton County
+Cloquet,Carlton County
+Cromwell,Carlton County
+Kettle River,Carlton County
+Moose Lake,Carlton County
+Scanlon,Carlton County
+Thomson,Carlton County
+Wrenshall,Carlton County
+Wright,Carlton County
+Carver,Carver County
+Chanhassen,Carver County
+Chaska,Carver County
+Cologne,Carver County
+Hamburg,Carver County
+Mayer,Carver County
+New Germany,Carver County
+Norwood Young America,Carver County
+Victoria,Carver County
+Waconia,Carver County
+Watertown,Carver County
+Backus,Cass County
+Bena,Cass County
+Boy River,Cass County
+Cass Lake,Cass County
+Chickamaw Beach,Cass County
+East Gull Lake,Cass County
+Federal Dam,Cass County
+Hackensack,Cass County
+Lake Shore,Cass County
+Longville,Cass County
+Pillager,Cass County
+Pine River,Cass County
+Remer,Cass County
+Walker,Cass County
+Clara City,Chippewa County
+Maynard,Chippewa County
+Milan,Chippewa County
+Montevideo,Chippewa County
+Watson,Chippewa County
+Center City,Chisago County
+Chisago City,Chisago County
+Harris,Chisago County
+Lindstrom,Chisago County
+North Branch,Chisago County
+Rush City,Chisago County
+Shafer,Chisago County
+Stacy,Chisago County
+Taylors Falls,Chisago County
+Wyoming,Chisago County
+Barnesville,Clay County
+Comstock,Clay County
+Dilworth,Clay County
+Felton,Clay County
+Georgetown,Clay County
+Glyndon,Clay County
+Hawley,Clay County
+Hitterdal,Clay County
+Moorhead,Clay County
+Sabin,Clay County
+Ulen,Clay County
+Bagley,Clearwater County
+Clearbrook,Clearwater County
+Gonvick,Clearwater County
+Leonard,Clearwater County
+Shevlin,Clearwater County
+Grand Marais,Cook County
+Bingham Lake,Cottonwood County
+Jeffers,Cottonwood County
+Mountain Lake,Cottonwood County
+Storden,Cottonwood County
+Westbrook,Cottonwood County
+Windom,Cottonwood County
+Baxter,Crow Wing County
+Brainerd,Crow Wing County
+Breezy Point,Crow Wing County
+Crosby,Crow Wing County
+Crosslake,Crow Wing County
+Cuyuna,Crow Wing County
+Deerwood,Crow Wing County
+Emily,Crow Wing County
+Fifty Lakes,Crow Wing County
+Fort Ripley,Crow Wing County
+Garrison,Crow Wing County
+Ironton,Crow Wing County
+Jenkins,Crow Wing County
+Manhattan Beach,Crow Wing County
+Nisswa,Crow Wing County
+Pequot Lakes,Crow Wing County
+Riverton,Crow Wing County
+Trommald,Crow Wing County
+Apple Valley,Dakota County
+Burnsville,Dakota County
+Coates,Dakota County
+Eagan,Dakota County
+Farmington,Dakota County
+Hampton,Dakota County
+Hastings,Dakota County
+Inver Grove Heights,Dakota County
+Lakeville,Dakota County
+Lilydale,Dakota County
+Mendota,Dakota County
+Mendota Heights,Dakota County
+Miesville,Dakota County
+New Trier,Dakota County
+Randolph,Dakota County
+Rosemount,Dakota County
+South Saint Paul,Dakota County
+Sunfish Lake,Dakota County
+Vermillion,Dakota County
+West Saint Paul,Dakota County
+Claremont,Dodge County
+Dodge Center,Dodge County
+Hayfield,Dodge County
+Kasson,Dodge County
+Mantorville,Dodge County
+West Concord,Dodge County
+Alexandria,Douglas County
+Brandon,Douglas County
+Carlos,Douglas County
+Evansville,Douglas County
+Forada,Douglas County
+Garfield,Douglas County
+Kensington,Douglas County
+Millerville,Douglas County
+Miltona,Douglas County
+Nelson,Douglas County
+Osakis,Douglas County
+Elbow Lake,Grant County
+Blue Earth,Faribault County
+Bricelyn,Faribault County
+Delavan,Faribault County
+Easton,Faribault County
+Elmore,Faribault County
+Frost,Faribault County
+Kiester,Faribault County
+Minnesota Lake,Faribault County
+Walters,Faribault County
+Wells,Faribault County
+Winnebago,Faribault County
+Canton,Fillmore County
+Chatfield,Fillmore County
+Fountain,Fillmore County
+Harmony,Fillmore County
+Lanesboro,Fillmore County
+Mabel,Fillmore County
+Ostrander,Fillmore County
+Peterson,Fillmore County
+Preston,Fillmore County
+Rushford,Fillmore County
+Rushford Village,Fillmore County
+Spring Valley,Fillmore County
+Whalan,Fillmore County
+Wykoff,Fillmore County
+Albert Lea,Freeborn County
+Alden,Freeborn County
+Clarks Grove,Freeborn County
+Conger,Freeborn County
+Emmons,Freeborn County
+Freeborn,Freeborn County
+Geneva,Freeborn County
+Glenville,Freeborn County
+Hartland,Freeborn County
+Hayward,Freeborn County
+Hollandale,Freeborn County
+Manchester,Freeborn County
+Myrtle,Freeborn County
+Twin Lakes,Freeborn County
+Bellechester,Goodhue County
+Cannon Falls,Goodhue County
+Dennison,Goodhue County
+Goodhue,Goodhue County
+Kenyon,Goodhue County
+Pine Island,Goodhue County
+Red Wing,Goodhue County
+Wanamingo,Goodhue County
+Zumbrota,Goodhue County
+Ashby,Grant County
+Barrett,Grant County
+Herman,Grant County
+Hoffman,Grant County
+Norcross,Grant County
+Wendell,Grant County
+Bloomington,Hennepin County
+Brooklyn Center,Hennepin County
+Brooklyn Park,Hennepin County
+Champlin,Hennepin County
+Corcoran,Hennepin County
+Crystal,Hennepin County
+Dayton,Hennepin County
+Deephaven,Hennepin County
+Eden Prairie,Hennepin County
+Edina,Hennepin County
+Excelsior,Hennepin County
+Golden Valley,Hennepin County
+Greenfield,Hennepin County
+Greenwood,Hennepin County
+Hopkins,Hennepin County
+Independence,Hennepin County
+Long Lake,Hennepin County
+Loretto,Hennepin County
+Maple Grove,Hennepin County
+Maple Plain,Hennepin County
+Medicine Lake,Hennepin County
+Medina,Hennepin County
+Minneapolis,Hennepin County
+Minnetonka,Hennepin County
+Minnetonka Beach,Hennepin County
+Minnetrista,Hennepin County
+Mound,Hennepin County
+New Hope,Hennepin County
+Orono,Hennepin County
+Osseo,Hennepin County
+Plymouth,Hennepin County
+Richfield,Hennepin County
+Robbinsdale,Hennepin County
+Rogers,Hennepin County
+Saint Anthony,Hennepin County
+Saint Bonifacius,Hennepin County
+Saint Louis Park,Hennepin County
+Shorewood,Hennepin County
+Spring Park,Hennepin County
+Tonka Bay,Hennepin County
+Wayzata,Hennepin County
+Woodland,Hennepin County
+Brownsville,Houston County
+Caledonia,Houston County
+Eitzen,Houston County
+Hokah,Houston County
+Houston,Houston County
+La Crescent,Houston County
+Spring Grove,Houston County
+Akeley,Hubbard County
+Laporte,Hubbard County
+Nevis,Hubbard County
+Park Rapids,Hubbard County
+Braham,Isanti County
+Cambridge,Isanti County
+Isanti,Isanti County
+Bigfork,Itasca County
+Bovey,Itasca County
+Calumet,Itasca County
+Cohasset,Itasca County
+Coleraine,Itasca County
+Deer River,Itasca County
+Effie,Itasca County
+Keewatin,Itasca County
+La Prairie,Itasca County
+Marble,Itasca County
+Nashwauk,Itasca County
+Squaw Lake,Itasca County
+Taconite,Itasca County
+Warba,Itasca County
+Zemple,Itasca County
+Alpha,Jackson County
+Heron Lake,Jackson County
+Jackson,Jackson County
+Lakefield,Jackson County
+Okabena,Jackson County
+Wilder,Jackson County
+Grasston,Kanabec County
+Mora,Kanabec County
+Ogilvie,Kanabec County
+Quamba,Kanabec County
+Atwater,Kandiyohi County
+Blomkest,Kandiyohi County
+Kandiyohi,Kandiyohi County
+Lake Lillian,Kandiyohi County
+New London,Kandiyohi County
+Pennock,Kandiyohi County
+Prinsburg,Kandiyohi County
+Raymond,Kandiyohi County
+Regal,Kandiyohi County
+Spicer,Kandiyohi County
+Sunburg,Kandiyohi County
+Willmar,Kandiyohi County
+Grand Rapids,Itasca County
+Donaldson,Kittson County
+Hallock,Kittson County
+Halma,Kittson County
+Humboldt,Kittson County
+Karlstad,Kittson County
+Kennedy,Kittson County
+Lake Bronson,Kittson County
+Lancaster,Kittson County
+Saint Vincent,Kittson County
+Big Falls,Koochiching County
+International Falls,Koochiching County
+Littlefork,Koochiching County
+Mizpah,Koochiching County
+Northome,Koochiching County
+Ranier,Koochiching County
+Bellingham,Lac qui Parle County
+Boyd,Lac qui Parle County
+Dawson,Lac qui Parle County
+Louisburg,Lac qui Parle County
+Madison,Lac qui Parle County
+Marietta,Lac qui Parle County
+Nassau,Lac qui Parle County
+Beaver Bay,Lake County
+Silver Bay,Lake County
+Two Harbors,Lake County
+Baudette,Lake of the Woods County
+Williams,Lake of the Woods County
+Cleveland,Le Sueur County
+Elysian,Le Sueur County
+Heidelberg,Le Sueur County
+Kasota,Le Sueur County
+Kilkenny,Le Sueur County
+Le Center,Le Sueur County
+Le Sueur,Le Sueur County
+Montgomery,Le Sueur County
+Waterville,Le Sueur County
+Arco,Lincoln County
+Hendricks,Lincoln County
+Ivanhoe,Lincoln County
+Lake Benton,Lincoln County
+Tyler,Lincoln County
+Balaton,Lyon County
+Cottonwood,Lyon County
+Florence,Lyon County
+Garvin,Lyon County
+Ghent,Lyon County
+Lynd,Lyon County
+Marshall,Lyon County
+Minneota,Lyon County
+Russell,Lyon County
+Taunton,Lyon County
+Tracy,Lyon County
+Bejou,Mahnomen County
+Mahnomen,Mahnomen County
+Waubun,Mahnomen County
+Alvarado,Marshall County
+Argyle,Marshall County
+Grygla,Marshall County
+Holt,Marshall County
+Middle River,Marshall County
+Newfolden,Marshall County
+Oslo,Marshall County
+Stephen,Marshall County
+Strandquist,Marshall County
+Viking,Marshall County
+Warren,Marshall County
+Ceylon,Martin County
+Dunnell,Martin County
+Fairmont,Martin County
+Granada,Martin County
+Northrop,Martin County
+Sherburn,Martin County
+Trimont,Martin County
+Truman,Martin County
+Welcome,Martin County
+Biscay,McLeod County
+Brownton,McLeod County
+Glencoe,McLeod County
+Hutchinson,McLeod County
+Lester Prairie,McLeod County
+Plato,McLeod County
+Silver Lake,McLeod County
+Stewart,McLeod County
+Winsted,McLeod County
+Cedar Mills,Meeker County
+Cosmos,Meeker County
+Darwin,Meeker County
+Dassel,Meeker County
+Eden Valley,Meeker County
+Grove City,Meeker County
+Kingston,Meeker County
+Litchfield,Meeker County
+Watkins,Meeker County
+Bock,Mille Lacs County
+Foreston,Mille Lacs County
+Isle,Mille Lacs County
+Milaca,Mille Lacs County
+Onamia,Mille Lacs County
+Pease,Mille Lacs County
+Princeton,Mille Lacs County
+Wahkon,Mille Lacs County
+Bowlus,Morrison County
+Buckman,Morrison County
+Elmdale,Morrison County
+Flensburg,Morrison County
+Genola,Morrison County
+Harding,Morrison County
+Hillman,Morrison County
+Lastrup,Morrison County
+Little Falls,Morrison County
+Motley,Morrison County
+Pierz,Morrison County
+Randall,Morrison County
+Royalton,Morrison County
+Sobieski,Morrison County
+Swanville,Morrison County
+Upsala,Morrison County
+Adams,Mower County
+Austin,Mower County
+Brownsdale,Mower County
+Dexter,Mower County
+Elkton,Mower County
+Grand Meadow,Mower County
+Le Roy,Mower County
+Lyle,Mower County
+Mapleview,Mower County
+Racine,Mower County
+Rose Creek,Mower County
+Sargeant,Mower County
+Taopi,Mower County
+Waltham,Mower County
+Avoca,Murray County
+Chandler,Murray County
+Currie,Murray County
+Dovray,Murray County
+Fulda,Murray County
+Hadley,Murray County
+Iona,Murray County
+Lake Wilson,Murray County
+Slayton,Murray County
+Courtland,Nicollet County
+Lafayette,Nicollet County
+Nicollet,Nicollet County
+North Mankato,Nicollet County
+Saint Peter,Nicollet County
+Adrian,Nobles County
+Bigelow,Nobles County
+Brewster,Nobles County
+Dundee,Nobles County
+Ellsworth,Nobles County
+Kinbrae,Nobles County
+Lismore,Nobles County
+Round Lake,Nobles County
+Rushmore,Nobles County
+Wilmont,Nobles County
+Worthington,Nobles County
+Ada,Norman County
+Borup,Norman County
+Gary,Norman County
+Halstad,Norman County
+Perley,Norman County
+Shelly,Norman County
+Twin Valley,Norman County
+Hendrum,Norman County
+Byron,Olmsted County
+Dover,Olmsted County
+Eyota,Olmsted County
+Oronoco,Olmsted County
+Rochester,Olmsted County
+Stewartville,Olmsted County
+Battle Lake,Otter Tail County
+Bluffton,Otter Tail County
+Clitherall,Otter Tail County
+Dalton,Otter Tail County
+Deer Creek,Otter Tail County
+Dent,Otter Tail County
+Elizabeth,Otter Tail County
+Erhard,Otter Tail County
+Fergus Falls,Otter Tail County
+Henning,Otter Tail County
+New York Mills,Otter Tail County
+Ottertail,Otter Tail County
+Parkers Prairie,Otter Tail County
+Pelican Rapids,Otter Tail County
+Perham,Otter Tail County
+Richville,Otter Tail County
+Underwood,Otter Tail County
+Urbank,Otter Tail County
+Vergas,Otter Tail County
+Vining,Otter Tail County
+Goodridge,Pennington County
+Saint Hilaire,Pennington County
+Thief River Falls,Pennington County
+Askov,Pine County
+Brook Park,Pine County
+Bruno,Pine County
+Denham,Pine County
+Finlayson,Pine County
+Henriette,Pine County
+Hinckley,Pine County
+Kerrick,Pine County
+Pine City,Pine County
+Rock Creek,Pine County
+Rutledge,Pine County
+Sandstone,Pine County
+Sturgeon Lake,Pine County
+Willow River,Pine County
+Edgerton,Pipestone County
+Hatfield,Pipestone County
+Holland,Pipestone County
+Ihlen,Pipestone County
+Jasper,Pipestone County
+Pipestone,Pipestone County
+Ruthton,Pipestone County
+Trosky,Pipestone County
+Woodstock,Pipestone County
+Beltrami,Polk County
+Climax,Polk County
+Crookston,Polk County
+East Grand Forks,Polk County
+Erskine,Polk County
+Fertile,Polk County
+Fisher,Polk County
+Fosston,Polk County
+Gully,Polk County
+Lengby,Polk County
+McIntosh,Polk County
+Mentor,Polk County
+Nielsville,Polk County
+Trail,Polk County
+Winger,Polk County
+Cyrus,Pope County
+Farwell,Pope County
+Glenwood,Pope County
+Long Beach,Pope County
+Lowry,Pope County
+Sedan,Pope County
+Starbuck,Pope County
+Villard,Pope County
+Westport,Pope County
+Arden Hills,Ramsey County
+Falcon Heights,Ramsey County
+Gem Lake,Ramsey County
+Lauderdale,Ramsey County
+Little Canada,Ramsey County
+Maplewood,Ramsey County
+Mounds View,Ramsey County
+New Brighton,Ramsey County
+North Oaks,Ramsey County
+North Saint Paul,Ramsey County
+Roseville,Ramsey County
+Saint Paul,Ramsey County
+Shoreview,Ramsey County
+Vadnais Heights,Ramsey County
+White Bear Lake,Ramsey County
+Brooks,Red Lake County
+Oklee,Red Lake County
+Plummer,Red Lake County
+Red Lake Falls,Red Lake County
+Belview,Redwood County
+Clements,Redwood County
+Delhi,Redwood County
+Lamberton,Redwood County
+Lucan,Redwood County
+Milroy,Redwood County
+Morgan,Redwood County
+Redwood Falls,Redwood County
+Revere,Redwood County
+Sanborn,Redwood County
+Seaforth,Redwood County
+Vesta,Redwood County
+Wabasso,Redwood County
+Walnut Grove,Redwood County
+Wanda,Redwood County
+Bird Island,Renville County
+Buffalo Lake,Renville County
+Danube,Renville County
+Fairfax,Renville County
+Franklin,Renville County
+Hector,Renville County
+Morton,Renville County
+Olivia,Renville County
+Renville,Renville County
+Sacred Heart,Renville County
+Dundas,Rice County
+Faribault,Rice County
+Lonsdale,Rice County
+Morristown,Rice County
+Nerstrand,Rice County
+Northfield,Rice County
+Beaver Creek,Rock County
+Hardwick,Rock County
+Hills,Rock County
+Kenneth,Rock County
+Luverne,Rock County
+Magnolia,Rock County
+Steen,Rock County
+Badger,Roseau County
+Greenbush,Roseau County
+Roosevelt,Roseau County
+Roseau,Roseau County
+Strathcona,Roseau County
+Warroad,Roseau County
+Aurora,Saint Louis County
+Babbitt,Saint Louis County
+Biwabik,Saint Louis County
+Brookston,Saint Louis County
+Buhl,Saint Louis County
+Chisholm,Saint Louis County
+Cook,Saint Louis County
+Duluth,Saint Louis County
+Ely,Saint Louis County
+Eveleth,Saint Louis County
+Floodwood,Saint Louis County
+Gilbert,Saint Louis County
+Hermantown,Saint Louis County
+Hibbing,Saint Louis County
+Hoyt Lakes,Saint Louis County
+Iron Junction,Saint Louis County
+Kinney,Saint Louis County
+Leonidas,Saint Louis County
+McKinley,Saint Louis County
+Meadowlands,Saint Louis County
+Mountain Iron,Saint Louis County
+Orr,Saint Louis County
+Proctor,Saint Louis County
+Tower,Saint Louis County
+Virginia,Saint Louis County
+Winton,Saint Louis County
+Belle Plaine,Scott County
+Elko New Market,Scott County
+Jordan,Scott County
+New Prague,Scott County
+Prior Lake,Scott County
+Savage,Scott County
+Shakopee,Scott County
+Becker,Sherburne County
+Big Lake,Sherburne County
+Clear Lake,Sherburne County
+Elk River,Sherburne County
+Zimmerman,Sherburne County
+Arlington,Sibley County
+Gaylord,Sibley County
+Gibbon,Sibley County
+Green Isle,Sibley County
+Henderson,Sibley County
+New Auburn,Sibley County
+Winthrop,Sibley County
+Albany,Stearns County
+Avon,Stearns County
+Belgrade,Stearns County
+Brooten,Stearns County
+Cold Spring,Stearns County
+Elrosa,Stearns County
+Freeport,Stearns County
+Greenwald,Stearns County
+Holdingford,Stearns County
+Kimball,Stearns County
+Lake Henry,Stearns County
+Meire Grove,Stearns County
+Melrose,Stearns County
+New Munich,Stearns County
+Paynesville,Stearns County
+Richmond,Stearns County
+Rockville,Stearns County
+Roscoe,Stearns County
+Saint Augusta,Stearns County
+Saint Cloud,Stearns County
+Saint Joseph,Stearns County
+Saint Martin,Stearns County
+Saint Rosa,Stearns County
+Saint Stephen,Stearns County
+Sartell,Stearns County
+Sauk Centre,Stearns County
+Spring Hill,Stearns County
+Waite Park,Stearns County
+Blooming Prairie,Steele County
+Ellendale,Steele County
+Medford,Steele County
+Owatonna,Steele County
+Alberta,Stevens County
+Chokio,Stevens County
+Donnelly,Stevens County
+Hancock,Stevens County
+Morris,Stevens County
+Appleton,Swift County
+Benson,Swift County
+Clontarf,Swift County
+Danvers,Swift County
+De Graff,Swift County
+Holloway,Swift County
+Kerkhoven,Swift County
+Murdock,Swift County
+Bertha,Todd County
+Browerville,Todd County
+Burtrum,Todd County
+Clarissa,Todd County
+Eagle Bend,Todd County
+Grey Eagle,Todd County
+Hewitt,Todd County
+Long Prairie,Todd County
+Staples,Todd County
+West Union,Todd County
+Browns Valley,Traverse County
+Dumont,Traverse County
+Tintah,Traverse County
+Wheaton,Traverse County
+Elgin,Wabasha County
+Hammond,Wabasha County
+Kellogg,Wabasha County
+Lake City,Wabasha County
+Mazeppa,Wabasha County
+Millville,Wabasha County
+Minneiska,Wabasha County
+Plainview,Wabasha County
+Wabasha,Wabasha County
+Zumbro Falls,Wabasha County
+Aldrich,Wadena County
+Menahga,Wadena County
+Nimrod,Wadena County
+Sebeka,Wadena County
+Verndale,Wadena County
+Wadena,Wadena County
+Janesville,Waseca County
+New Richland,Waseca County
+Waldorf,Waseca County
+Waseca,Waseca County
+Afton,Washington County
+Bayport,Washington County
+Birchwood Village,Washington County
+Cottage Grove,Washington County
+Dellwood,Washington County
+Forest Lake,Washington County
+Grant,Washington County
+Hugo,Washington County
+Lake Elmo,Washington County
+Lake Saint Croix Beach,Washington County
+Lakeland,Washington County
+Lakeland Shores,Washington County
+Landfall,Washington County
+Mahtomedi,Washington County
+Marine on Saint Croix,Washington County
+Newport,Washington County
+Oak Park Heights,Washington County
+Oakdale,Washington County
+Pine Springs,Washington County
+Saint Marys Point,Washington County
+Saint Paul Park,Washington County
+Scandia,Washington County
+Stillwater,Washington County
+Willernie,Washington County
+Woodbury,Washington County
+Butterfield,Watonwan County
+Darfur,Watonwan County
+La Salle,Watonwan County
+Lewisville,Watonwan County
+Madelia,Watonwan County
+Odin,Watonwan County
+Ormsby,Watonwan County
+Saint James,Watonwan County
+Breckenridge,Wilkin County
+Campbell,Wilkin County
+Doran,Wilkin County
+Foxhome,Wilkin County
+Kent,Wilkin County
+Nashua,Wilkin County
+Rothsay,Wilkin County
+Wolverton,Wilkin County
+Altura,Winona County
+Dakota,Winona County
+Elba,Winona County
+Goodview,Winona County
+Lewiston,Winona County
+Minnesota City,Winona County
+Rollingstone,Winona County
+Saint Charles,Winona County
+Stockton,Winona County
+Utica,Winona County
+Winona,Winona County
+Albertville,Wright County
+Annandale,Wright County
+Buffalo,Wright County
+Clearwater,Wright County
+Cokato,Wright County
+Delano,Wright County
+Hanover,Wright County
+Howard Lake,Wright County
+Maple Lake,Wright County
+Monticello,Wright County
+Montrose,Wright County
+Otsego,Wright County
+Rockford,Wright County
+Saint Michael,Wright County
+South Haven,Wright County
+Waverly,Wright County
+Canby,Yellow Medicine County
+Clarkfield,Yellow Medicine County
+Echo,Yellow Medicine County
+Granite Falls,Yellow medicine County
+Hanley Falls,Yellow Medicine County
+Hazel Run,Yellow Medicine County
+Porter,Yellow Medicine County
+Saint Leo,Yellow Medicine County
+Wood Lake,Yellow Medicine County

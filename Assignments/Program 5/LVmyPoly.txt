@@ -1,0 +1,16 @@
+The name of the triangle is Sally.
+Vertices: (1.4,2.3),(3.2,4.1),(5.0,6.9)
+Side lengths:   5.84    3.33    2.55
+No sides are of equal length.
+
+The name of the quadrilateral is Billy.
+Vertices: (0.0,0.0),(0.0,1.0),(1.0,1.0),(1.0,0.0)
+Side lengths:   1.00    1.00    1.00    1.00
+Diagonals:      1.41    1.41
+At least two sides are of equal length.
+
+The name of the triangle is Tim.
+Vertices: (-2.161,-3.366),(2.161,3.366),(-5.83,3.743)
+Side lengths:   8.00    8.00    8.00
+At least two sides are of equal length.
+

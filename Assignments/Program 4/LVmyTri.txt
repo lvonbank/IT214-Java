@@ -1,0 +1,33 @@
+Error line 1: Levi 0 0 0 0 0 0
+Duplicate points
+
+Error line 6: Alex 0 4 0 2 0 -2
+Collinear points
+
+Error line 7: Randi -4 3 1 3 6 3
+Collinear points
+
+The name of the triangle is Sally.
+Vertices: (1.4,2.3),(3.2,4.1),(5.0,6.9)
+Side 1 is 5.84
+Side 2 is 3.33
+Side 3 is 2.55
+
+The name of the triangle is Mickey.
+Vertices: (-4.0,0.0),(4.0,0.0),(0.0,6.9282)
+Side 1 is 8.00
+Side 2 is 8.00
+Side 3 is 8.00
+
+The name of the triangle is FredEQ.
+Vertices: (-2.161,-3.366),(2.161,3.366),(-5.83,3.743)
+Side 1 is 8.00
+Side 2 is 8.00
+Side 3 is 8.00
+
+The name of the triangle is Bob.
+Vertices: (3.54,5.46),(-4.54,5.557),(3.1,-2.1)
+Side 1 is 7.57
+Side 2 is 10.82
+Side 3 is 8.08
+
